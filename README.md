@@ -5,9 +5,9 @@ This is a simple console-based Warehouse Inventory Management System developed u
 
 ## How to Run the Program
 1. Open the terminal/command prompt in the project directory.
-2. Compile the Java files using the command:
+2. Compile the Java files using the command.
    `javac Warehouse.java`
-3. Run the program using the command:
+3. Run the program using the command.
    `java Warehouse`
 
 ## Sample Output
