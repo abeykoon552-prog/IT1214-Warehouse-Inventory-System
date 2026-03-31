@@ -1,9 +1,9 @@
 # Warehouse Inventory Management System
 
-## Project Description
+         Project Description
 This is a simple console-based Warehouse Inventory Management System developed using Java. It utilizes the Java Collections Framework (ArrayList) to manage inventory items and follows Object-Oriented Programming (OOP) principles such as encapsulation.
 
-## How to Run the Program
+         Run the Program
 1. Open the terminal/command prompt in the project directory.
 2. Compile the Java files using the command.
    `javac Warehouse.java`
