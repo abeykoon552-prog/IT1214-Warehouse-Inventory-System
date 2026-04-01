@@ -10,17 +10,22 @@ This is a simple console-based Warehouse Inventory Management System developed u
 3. Run the program using the command.
    'java Warehouse'
 
-        Sample Output
-=== Warehouse Inventory Management System ===
-1. Add a new item to inventory
-2. Remove an existing item
-3. Update item quantity
-4. Search for an item (by ID or name)
-5. Display all items in inventory
-6. Exit
-Select an option (1-6): 1
+ === Warehouse Inventory Entry ===
+
+Entering Details for Item 1:
 Enter Item ID: I001
 Enter Item Name: Laptop
+Enter Quantity: 10
+Enter Price: 150000.00
+Item added successfully!
+
+Entering Details for Item 2:
+Enter Item ID: I002
+Enter Item Name: Mouse
 Enter Quantity: 50
 Enter Price: 1200.00
-Item added successfully.
+Item added successfully!
+
+=== Final Inventory List ===
+ID: I001 | Name: Laptop | Qty: 10 | Price: Rs.150000.0
+ID: I002 | Name: Mouse | Qty: 50 | Price: Rs.1200.0
