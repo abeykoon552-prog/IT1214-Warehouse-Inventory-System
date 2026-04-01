@@ -10,20 +10,31 @@ This is a simple console-based Warehouse Inventory Management System developed u
 3. Run the program using the command.
    'java Warehouse'
 
+          Sample output 
+
  === Warehouse Inventory Entry ===
 
 Entering Details for Item 1:
+
 Enter Item ID: I001
+
 Enter Item Name: Laptop
+
 Enter Quantity: 10
+
 Enter Price: 150000.00
+
 Item added successfully!
 
 Entering Details for Item 2:
 Enter Item ID: I002
+
 Enter Item Name: Mouse
+
 Enter Quantity: 50
+
 Enter Price: 1200.00
+
 Item added successfully!
 
 === Final Inventory List ===
